@@ -1,0 +1,19 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2022-09-13T14:12:52.671103+02:00
+from:
+  id-type: crev
+  id: tqIagdKIwdbLXhAnnLYyL_1hlpfutnBFV1fvxolMws8
+  url: https://github.com/jakibaki/crev-proofs
+ids:
+- id-type: crev
+  id: YdnEoYtqvbBGv0hhENLDUYmc3tNfm5V5NIG5hCovHyM
+  url: https://git.jcg.re/jcgruenhage/crev-proofs.git
+trust: high
+comment: |-
+  Employee at same company!
+----- SIGN CREV PROOF -----
+1TBar34PXoe5O4_gJjJxaUPlukiXRR9terSrOYTCZTTdUB2IkkX51rUkKW6h3MI7v78q3YyfIYdKCGX1ecLOAg
+----- END CREV PROOF -----
+
