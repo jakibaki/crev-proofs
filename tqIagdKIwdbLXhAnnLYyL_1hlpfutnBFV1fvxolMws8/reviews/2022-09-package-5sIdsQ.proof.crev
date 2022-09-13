@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-09-13T13:52:00.019002+02:00
+from:
+  id-type: crev
+  id: tqIagdKIwdbLXhAnnLYyL_1hlpfutnBFV1fvxolMws8
+  url: https://github.com/jakibaki/crev-proofs
+package:
+  source: https://crates.io
+  name: firebae-cm
+  version: 0.1.0
+  revision: a2a2f035d3650b4eb9a9a14a831a07db13bf4baa
+  digest: OggW58sAvKmorsEm1GEaP-Br0-SNmOixge7a0dG5L6k
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  This crate does what it says it does: Provide a simple way to build and send fcm notifications. I have read through the code (and contributed) and it's quite easy to understand and achieves what it does without using any uncommon or unnecessary dependencies
+----- SIGN CREV PROOF -----
+AajuXnhQZvYO9_pz0rKGJLPs2mlbAX9nke25Z432vQt7DhoLOF8O92UHvpFIG6d4etC5kjGOyYwc1SlsW4JnDQ
+----- END CREV PROOF -----
+
